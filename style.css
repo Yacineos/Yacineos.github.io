@@ -1,7 +1,14 @@
 #title {
     position: relative;
     text-align: center;
-    margin-top: 80px;
+    margin-top: 20px;
+    font-size: 35px;
+    padding: 15px;
+    background-color: rgb(250, 244, 237);
+    border: 15px solid #4C344E;
+    margin-left: 5%;
+    margin-right: 5%;
+    
 }
 body {
     background-color: #4C344E;
@@ -10,5 +17,14 @@ img {
     max-width: 100%;
     height: auto;
     margin-top: 100px;
-
+    border-radius: 15px;
+  
+}
+#box-box {
+    width: auto;
+    background-color: rgb(250, 244, 237);;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 2%;
+    padding: 50px;
+    margin: 20px;
 }
