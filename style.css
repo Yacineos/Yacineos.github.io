@@ -1,5 +1,14 @@
 #title {
     position: relative;
     text-align: center;
-    
+    margin-top: 80px;
+}
+body {
+    background-color: #4C344E;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 100px;
+
 }
